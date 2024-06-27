@@ -80,11 +80,6 @@ while True:
 
     cv2.imshow("Cam", frame)
 
-    #end_time = time.time()
-
-    #total_time = end_time - start_time
-
-    #print('Time Taken : ', total_time)
     if cv2.waitKey(1) & 0xFF == ord('q'):
         break
 
