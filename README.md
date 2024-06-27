@@ -4,9 +4,9 @@ The code provided is for a face recognition system that captures faces through a
 
 path: Path where images of known faces are stored.
 
-Image File Format : Name.jpg (File can be of any extension)
-
 csv_path: Path where CSV files for attendance records will be stored.
+
+Image File Format : Name.jpg (File can be of any extension)
 
 ## Installation
 
